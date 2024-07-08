@@ -1,6 +1,5 @@
 export const updateWindowCount = async () => {
   const windows = await chrome.windows.getAll()
-  console.log(windows)
   chrome.storage.local.set({ windowCount: windows.length })
   return windows.length
 }
