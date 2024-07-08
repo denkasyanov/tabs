@@ -1,7 +1,7 @@
 {
   "name": "tabs",
   "displayName": "Tabs · Count Tabs and Windows",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Extension that helps to count windows and tabs, both in the current window and in all windows.",
   "author": "Tabs Team <tabs.extension.dev@gmail.com>",
   "scripts": {
