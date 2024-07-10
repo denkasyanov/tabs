@@ -4,6 +4,12 @@ Chrome extension for counting open tabs and windows.
 
 [![UV4C4ybeBTsZt43U4xis](https://github.com/denkasyanov/tabs/assets/34678129/2a1923c1-5cfa-4588-9e47-c66ce7877218)](https://chromewebstore.google.com/detail/tabs-%C2%B7-count-tabs-and-win/jkofdipdkamnoabbchfggdkahnhdaeel)
 
+Features:
+· Counts tabs in current window
+· Counts total tabs across all windows
+· Counts total open windows
+· Displays information in popup or sidebar
+
 ## Development
 
 First, run the development server:
