@@ -1,0 +1,11 @@
+Tab and Window Counter
+Chrome extension for counting open tabs and windows.
+
+Features:
+· Counts tabs in current window
+· Counts total tabs across all windows
+· Counts total open windows
+· Displays information in popup or sidebar
+· Open source
+
+Code available at: https://github.com/denkasyanov/tabs
