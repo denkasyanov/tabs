@@ -1,5 +1,7 @@
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
+[![UV4C4ybeBTsZt43U4xis](https://github.com/denkasyanov/tabs/assets/34678129/2a1923c1-5cfa-4588-9e47-c66ce7877218)](https://chromewebstore.google.com/detail/tabs-%C2%B7-count-tabs-and-win/jkofdipdkamnoabbchfggdkahnhdaeel)
+
 ## Getting Started
 
 First, run the development server:
