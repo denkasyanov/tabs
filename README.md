@@ -1,8 +1,17 @@
 # Tabs
 
+[![UV4C4ybeBTsZt43U4xis](https://github.com/denkasyanov/tabs/assets/34678129/2a1923c1-5cfa-4588-9e47-c66ce7877218)](https://chromewebstore.google.com/detail/tabs-%C2%B7-count-tabs-and-win/jkofdipdkamnoabbchfggdkahnhdaeel)
+
 Chrome extension for counting open tabs and windows.
 
-[![UV4C4ybeBTsZt43U4xis](https://github.com/denkasyanov/tabs/assets/34678129/2a1923c1-5cfa-4588-9e47-c66ce7877218)](https://chromewebstore.google.com/detail/tabs-%C2%B7-count-tabs-and-win/jkofdipdkamnoabbchfggdkahnhdaeel)
+<a href="https://github.com/denkasyanov/tabs/assets/34678129/0c86003e-3f20-4c14-ab6e-3e7c55898037" target="_blank">
+  <img src="https://github.com/denkasyanov/tabs/assets/34678129/0c86003e-3f20-4c14-ab6e-3e7c55898037" width="400" style="max-width:100%;">
+</a>
+<a href="https://github.com/denkasyanov/tabs/assets/34678129/1d5a42a3-db4c-4fbe-8bfa-bea68d0a932c" target="_blank">
+  <img src="https://github.com/denkasyanov/tabs/assets/34678129/1d5a42a3-db4c-4fbe-8bfa-bea68d0a932c" width="400" style="max-width:100%;">
+</a>
+
+
 
 ### Features
 - Counts tabs in current window
