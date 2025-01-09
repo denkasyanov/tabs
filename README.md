@@ -13,6 +13,7 @@ Chrome extension for counting open tabs and windows.
 
 ### Features
 
+- (NEW) Find tabs with audio currently playing
 - Counts tabs in current window
 - Counts total tabs across all windows
 - Counts total open windows
