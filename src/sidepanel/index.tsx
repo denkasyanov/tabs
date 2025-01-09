@@ -121,29 +121,27 @@ function Stats() {
   const { currentWindowTabCount } = useCurrentWindowData()
 
   return (
-    <div className="p-4">
-      <div className="flex flex-row items-baseline gap-4">
-        <div className="relative flex w-32 flex-col rounded-lg border-2 border-gray-200 bg-slate-500 px-4 pb-6 pt-2 text-slate-50">
-          <p className="whitespace-nowrap text-3xl">
-            {currentWindowTabCount}
-            <span className="scale inline-block origin-bottom-left -translate-y-1 scale-50 text-slate-300">
-              <span className="mr-1">/</span>
-              {totalTabCount}
-            </span>
-          </p>
-          <p className="text-sm leading-3 text-slate-300">
-            tab{currentWindowTabCount > 1 ? "s" : ""}
-          </p>
-          <div className="absolute bottom-3 right-4">
-            <TabsHelpTooltip />
-          </div>
+    <div className="flex flex-row items-baseline gap-4">
+      <div className="relative flex w-32 flex-col rounded-lg border-2 border-gray-200 bg-slate-500 px-4 pb-6 pt-2 text-slate-50">
+        <p className="whitespace-nowrap text-3xl">
+          {currentWindowTabCount}
+          <span className="scale inline-block origin-bottom-left -translate-y-1 scale-50 text-slate-300">
+            <span className="mr-1">/</span>
+            {totalTabCount}
+          </span>
+        </p>
+        <p className="text-sm leading-3 text-slate-300">
+          tab{currentWindowTabCount > 1 ? "s" : ""}
+        </p>
+        <div className="absolute bottom-3 right-4">
+          <TabsHelpTooltip />
         </div>
-        <div className="flex w-32 flex-col rounded-lg border-2 border-gray-200 bg-slate-500 px-4 pb-6 pt-2 text-slate-50">
-          <p className="text-3xl">{windowCount}</p>
-          <p className="text-sm leading-3 text-slate-300">
-            window{windowCount > 1 ? "s" : ""}
-          </p>
-        </div>
+      </div>
+      <div className="flex w-32 flex-col rounded-lg border-2 border-gray-200 bg-slate-500 px-4 pb-6 pt-2 text-slate-50">
+        <p className="text-3xl">{windowCount}</p>
+        <p className="text-sm leading-3 text-slate-300">
+          window{windowCount > 1 ? "s" : ""}
+        </p>
       </div>
     </div>
   )
